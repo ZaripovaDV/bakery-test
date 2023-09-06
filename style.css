@@ -19,7 +19,7 @@ li{display: inline; margin-right: 100px;}
 li:last-child{margin-right: 0px;}
 
 .section-about {height: 640px;
-    background-image: url(../01-picture-background.jpg);
+    background-image: url(../01-picture-background.jpg/);
     background-position: center;
     background-size: cover;
     position: relative;
